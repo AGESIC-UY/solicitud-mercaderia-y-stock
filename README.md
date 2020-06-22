@@ -1,4 +1,4 @@
-# solicitud-mercaderia-y-stock
+# Sistema de Inventario de Activos [Sin Mantenimiento]
 
 El objetivo del sistema "Sistema de Inventario de Activos", desarrollado por OPP, es facilitar la gestión del inventario de los activos (bienes de uso), mantenimiento y su seguimiento.
 Se cuenta con una nómina de artículos, en la que se ofrece la información de inventario, cantidades de artículos en tránsito, cantidad de artículos disponibles, cantidad de adjudicados, etiquetas libres para adjudicarlas a un nuevo inventario, entre otros.  Desde la aplicación también es posible indicar fecha de garantía y especificaciones en común.
